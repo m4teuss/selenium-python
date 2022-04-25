@@ -1,0 +1,28 @@
+Webdriver: É um servidor web que roda na máquina e faz o selenium conectar com o browser.
+
+O que é o selenium?
+
+- Selenium é uma lib de software livre, sob licença Apache 2.0, que te ajuda resolver trabalhos manuais e repetitivos no browser.
+
+- Software Livre: É um código de software colocado na internet, de maneira que outras pessoas tem acesso ao mesmo e podem usar livremente até mesmo contribuir. (Colaboração)
+
+- Apache 2.0: Direitos autorais.
+
+
+Pra que serve o selenium?
+- Automação de testes de software
+- Criar bots  
+- Redução de trabalho "repetitivo"
+- Raspar dados da internet com selenium
+
+
+Selenium Webdriver:
+
+Pessoa -> Programa Código -> Selenium -> Webdriver (Engrenagem)  -> Browser
+
+
+Webdriver: é um meio de campo, onde é jogado o código da nossa linguagem para ele, o mesmo recebe essa requisição (api rest) e reproduz o que recebeu no navegador.
+
+Selenium Grid: Permite que eu rode varios browsers ao mesmo tempo
+
+Entrega continua: Vai rodar nosso código sozinho.
