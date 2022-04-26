@@ -8,10 +8,7 @@ browser.get(url)
 
 sleep(1)
 
-
-
 a = browser.find_element_by_tag_name('a')
-
 
 for click in range(10):
     ps = browser.find_elements_by_tag_name('p')
