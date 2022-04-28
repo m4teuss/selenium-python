@@ -1,4 +1,4 @@
-# selenium-python
+# selenium com python
 
 ### Configuração:
     - Python 3.7 +
