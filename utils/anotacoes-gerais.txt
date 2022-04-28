@@ -26,3 +26,27 @@ Webdriver: é um meio de campo, onde é jogado o código da nossa linguagem para
 Selenium Grid: Permite que eu rode varios browsers ao mesmo tempo
 
 Entrega continua: Vai rodar nosso código sozinho.
+______________________________________________________________________________________________________|
+
+
+Aula 4c#
+back e forward -> navega no histórico
+
+
+Aula 4d#
+Entendendo uma URL:
+
+URL -> http://selenium.dunossauro.live/aula_04.html
+
+
+Schema: http://, file://, ftp:// (Protocolos)
+Netloc: selenium.dunossauro.live (O endereço na internet que queremos trazer)
+Path: aula_04.html
+
+parse: maneira de analisar texto
+
+
+browser.refresh (atualiza page)
+browser.title (Exibe o título da page)
+
+
